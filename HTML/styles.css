@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+#cabecalho{
+    height: 150px;
+    background-color: orange;
+}
+
+.menu{
+    height: 500px;
+    width: 300px;
+    background-color: greenyellow;
+}
